@@ -1,0 +1,55 @@
+#Box{
+    height: 500px;
+    width: 500px;
+    color: rgb(255, 200, 100);
+    background-color: red;
+    text-align: right;
+}
+.heading{
+    height: 200px;
+    width: 200px;
+    color: rgba(147, 16, 123, 0.957);
+    background-color: black;
+    text-decoration: overline;
+    margin: 50px 50px 50px 50px;
+}
+.heading1{
+    height: 100px;
+    width: 600px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px black dashed;
+    background-color: aqua ;
+    border-radius: 10px;
+    padding-left: 20px;
+    
+}
+*{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    font-size: 10PX;
+}
+#inner{
+    FONT-SIZE: 25PX;
+}
+#navbar{
+    margin:0;
+    padding: 0;
+    height: 60px;
+    background-color: #0f1111;
+}
+#button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+}
+#divid{
+    height: 700px;
+    background-color: aqua;
+}
+footer{
+    color: red;
+}
